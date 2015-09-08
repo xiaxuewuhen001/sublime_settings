@@ -1,0 +1,30 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AngularJS",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"Default",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"IMESupport",
+		"jQuery",
+		"JsFormat",
+		"Markdown Preview",
+		"Nil-Theme",
+		"Package Control",
+		"Pretty JSON",
+		"PyV8",
+		"SublimeGit",
+		"Theme - Soda",
+		"View In Browser",
+		"ZZZ"
+	]
+}
